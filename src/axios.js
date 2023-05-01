@@ -1,4 +1,4 @@
-import axios from 'axios'
+import axios from './axios'
 
 // create an axios instance from TMDb API
 const instance = axios.create({
