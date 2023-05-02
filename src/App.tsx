@@ -1,8 +1,6 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-import { Row } from './components/Row';
-import { requests } from './request';
+import "./App.css";
+import { requests } from "./request";
+import { Row } from "./components/Row";
 
 function App() {
   return (
